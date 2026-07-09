@@ -9,6 +9,9 @@ Anonsec Bojonegoro | 0xnhsec with 3 name
 ```
 
 # tldsweep
+```
+yay -S tld-sweeper
+```
 
 A simple TLD sweeper tool supporting ccTLD, gTLD, sTLD, and custom AA–ZZ brute-force combinations.
 
